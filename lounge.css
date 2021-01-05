@@ -19,4 +19,16 @@
       em {
           font-family: serif;
       }
+
+      P.blueberry {
+        color: purple;
+      }
+
+      P.greentea {
+        color: green;
+      }
+
+      P.raspberry {
+        color: blue;
+      }
     
